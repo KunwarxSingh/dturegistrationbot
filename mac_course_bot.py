@@ -2,7 +2,7 @@
 # DTU Course Auto Registration Bot
 # Built by: Kunwar Harshit Singh
 # GitHub: github.com/KunwarxSingh
-# Created: July 2025
+# Created: July 2025.
 
 
 from selenium import webdriver
