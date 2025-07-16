@@ -1,1 +1,6 @@
+# mac_course_bot.py
+# DTU Course Auto Registration Bot
+# Built by: Kunwar Harshit Singh
+# GitHub: github.com/KunwarxSingh
+# Created: July 2025
 selenium
