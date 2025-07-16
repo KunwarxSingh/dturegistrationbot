@@ -32,7 +32,7 @@ course-auto-reg/
 
 ---
 
-### 1. ✅ Install Python
+### 1.Install Python
 
 Check if Python is already installed:
 
@@ -43,11 +43,11 @@ python3 --version
 ```
 
 If not, download and install Python from:  
-👉 https://www.python.org/downloads/
+-> https://www.python.org/downloads/
 
 ---
 
-### 2. ✅ Install pip (Python package installer)
+### 2. Install pip (Python package installer)
 
 Usually comes with Python. If not:
 
@@ -57,7 +57,7 @@ python -m ensurepip --upgrade
 
 ---
 
-### 3. ✅ Install Selenium
+### 3. Install Selenium
 
 Run this command:
 
@@ -73,14 +73,14 @@ selenium
 
 ---
 
-### 4. ✅ Install Google Chrome
+### 4. Install Google Chrome
 
 If you don’t have it:  
-👉 https://www.google.com/chrome/
+->https://www.google.com/chrome/
 
 ---
 
-### 5. ✅ Install ChromeDriver (VERY IMPORTANT)
+### 5.Install ChromeDriver (VERY IMPORTANT)
 
 Selenium uses this to control Chrome.
 
@@ -92,7 +92,7 @@ Note the version (e.g. `114.0.5735.110`)
 #### Step 2: Download the matching ChromeDriver
 
 Go to:  
-👉 https://sites.google.com/chromium.org/driver/  
+->https://sites.google.com/chromium.org/driver/  
 Download the version that matches your Chrome version.
 
 #### Step 3: Set ChromeDriver path
@@ -115,14 +115,14 @@ CHROMEDRIVER_PATH = "C:\chromedriver\chromedriver.exe"
 
 ---
 
-## 🧠 How to Get Subject Form IDs
+## How to Get Subject Form IDs??
 
 You need a subject’s unique **form ID** to register it with the bot.
 
 ### Steps:
 
 1. Open course registration page on Chrome:
-   👉 `https://reg.exam.dtu.ac.in/student/courseRegistration/<your-session-id>`
+   ->`https://reg.exam.dtu.ac.in/student/courseRegistration/<your-session-id>`
 
 2. Right-click on the **"Register"** button of the subject → using **Inspect** element
 
@@ -153,7 +153,7 @@ Repeat for all the subjects you want to auto-register.
 
 ---
 
-## 🔐 Edit Your DTU Login Credentials in the Script
+## "Edit Your DTU Login Credentials in the Script"
 
 Open either `mac_course_bot.py` or `windows_course_bot.py` and update:
 
@@ -182,7 +182,7 @@ python windows_course_bot.py
 
 ---
 
-## 🧹 Optional: Delete Temp Chrome Profile (if needed)
+## Optional: Delete Temp Chrome Profile (if needed)
 
 The script creates a temp Chrome profile each time. You can delete it:
 
@@ -197,13 +197,13 @@ The script creates a temp Chrome profile each time. You can delete it:
 
 ---
 
-## 📸 Crash Debugging
+## Crash Debugging
 
 If something goes wrong, the bot saves a screenshot as `error.png` in the project directory so you can see what happened.
 
 ---
 
-## ⚠️ Important Notes
+## Important Notes:
 
 - 🔐 **Never upload your credentials** to GitHub or anywhere public.
 - 🧠 Only run this during elective registration hours.
@@ -212,7 +212,7 @@ If something goes wrong, the bot saves a screenshot as `error.png` in the projec
 
 ---
 
-## 👨‍💻 Built By
+## Built By
 
 This script was made by KUNWAR HARSHIT SINGH (EE).  
 Use it wisely, and don’t get caught slacking during electives 😉.
