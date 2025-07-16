@@ -23,7 +23,7 @@ course-auto-reg/
 ├── mac_course_bot.py         # Use this on macOS
 ├── windows_course_bot.py     # Use this on Windows
 ├── requirements.txt          # Python dependencies
-└── README.md                 # You're reading it
+└── README.md                 # complete guide
 ```
 
 ---
