@@ -1,6 +1,9 @@
-CHROMEDRIVER_PATH = "C:\\Path\\To\\chromedriver.exe"
-CHROME_PROFILE = f"C:\\Windows\\Temp\\course-bot-{uuid.uuid4()}"
-# mac_course_bot.py
+# windows_course_bot.py
+# DTU Course Auto Registration Bot
+# Built by: Kunwar Harshit Singh
+# GitHub: github.com/KunwarxSingh
+# Created: July 2025
+
 
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
