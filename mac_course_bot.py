@@ -1,9 +1,3 @@
-# mac_course_bot.py
-# DTU Course Auto Registration Bot
-# Built by: Kunwar Harshit Singh
-# GitHub: github.com/KunwarxSingh
-# Created: July 2025.
-
 
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
@@ -17,7 +11,7 @@ PASSWORD = "PASSWORD"
 
 # DTU URLs
 LOGIN_URL = "https://reg.exam.dtu.ac.in/student/login"
-COURSE_URL = "https://reg.exam.dtu.ac.in/student/courseRegistration/64971609f608d957ec3b280e"
+COURSE_URL = "https://reg.exam.dtu.ac.in/student/courseRegistration/64971609f608d957ec3b280e"//add your reg page url here.
 
 # macOS chromedriver path
 CHROMEDRIVER_PATH = "/usr/local/bin/chromedriver"
