@@ -1,4 +1,4 @@
-# 📚 DTU Course Auto Registration Bot
+#  DTU Course Auto Registration Bot
 
 This bot automatically registers you for electives on the DTU registration portal as soon as the registration opens. It uses Selenium to log in, keep refreshing the page, and click the “Register” button the moment it’s enabled.
 
@@ -6,7 +6,7 @@ This bot automatically registers you for electives on the DTU registration porta
 
 ---
 
-## 🔧 Features
+##  Features
 
 - Auto login to student portal
 - Automatically detects when the “Register” button is enabled
@@ -28,7 +28,7 @@ course-auto-reg/
 
 ---
 
-## 🚀 Full Setup Guide (DO THIS STEP BY STEP)
+##  Full Setup Guide (DO THIS STEP BY STEP)
 
 ---
 
