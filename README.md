@@ -203,16 +203,9 @@ If something goes wrong, the bot saves a screenshot as `error.png` in the projec
 
 ---
 
-## Important Notes:
-
-- 🔐 **Never upload your credentials** to GitHub or anywhere public.
-- 🧠 Only run this during elective registration hours.
-- 🚀 This is meant to beat the rush — don’t abuse it.
-- 🛑 Don’t open the same portal in another tab while this is running.
-
 ---
 
 ## Built By
 
-This script was made by KUNWAR HARSHIT SINGH (EE).  
+This script was made by KxS  
 Use it wisely, and don’t get caught slacking during electives 😉.
